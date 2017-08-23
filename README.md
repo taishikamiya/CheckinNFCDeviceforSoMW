@@ -1,5 +1,6 @@
 # CheckinNFCDeviceforSoMW
 Check-in NFC Device for SoMW is a device for the service "Society of Mobile Workers."
+![Check-in Device for SoMW](https://user-images.githubusercontent.com/26061586/29627686-2aa56454-8833-11e7-9d87-224cba6b2822.jpg)
 
 # Society of Mobile Workers  
 Society of Mobile Workers is a project in CIID.  
@@ -8,7 +9,7 @@ Society of Mobile Workers is a project in CIID.
 # What's this device
 This device is the terminal device to read membership card of the service.  
 The device has a NFC (RFID) board and a microcontroller (MKR1000).  
-!(Checkin-device.pdf)
+![circuit](https://user-images.githubusercontent.com/26061586/29627393-41ca506e-8832-11e7-92ba-1874d0f01670.png)
 
 # How it works
 I provide a Arduino sketch and a Processing sketch. Thus You need Arduino IDE and Processing.
