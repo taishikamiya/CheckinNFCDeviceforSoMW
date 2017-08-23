@@ -7,7 +7,8 @@ Society of Mobile Workers is a project in CIID.
 
 # What's this device
 This device is the terminal device to read membership card of the service.  
-The device has a NFC (RFID) board and a microcontroller (MKR1000). The circuit is like this.  
+The device has a NFC (RFID) board and a microcontroller (MKR1000).  
+!(Checkin-device.pdf)
 
 # How it works
 I provide a Arduino sketch and a Processing sketch. Thus You need Arduino IDE and Processing.
